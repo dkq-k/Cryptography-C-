@@ -1,0 +1,2 @@
+Encryption Algorithm: XOR
+Key Hint: The key is 8 bytes long. The ASCII values of the first three characters of the word "CIPHER" are the first three bytes of the key.
